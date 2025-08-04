@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @AtlaPriyanka
+- 👋 Hi, I’m AtlaPriyanka
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning frontend(HTML,CSS,JS)
+- 🌱 I’m proficient in frontend technologies like HTML,CSS,JS
 - 💞️ I’m looking to collaborate on projects based on my domain
+
 
 
 <!---
